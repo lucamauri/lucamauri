@@ -7,9 +7,12 @@ I am an IT professional from Italy 🇪🇺
 * I am the founder of [WikiTrek](https://github.com/WikiTrek), a collaborative Star Trek wiki in Italian
 
 ## 🔗 Connect with me
-[![Twitter Follow](https://img.shields.io/twitter/follow/lucamauri?style=flat-square)](https://twitter.com/follow/lucamauri)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white)
+<a href="[https://dev.to/lucamauri](https://t.me/lucamauricom)" target="blank"><img align="center" src="https://telegram.org/img/website_icon.svg" alt="Luca Mauri on Telegram" height="30" width="40" /></a>
+<a href="https://dev.to/lucamauri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Luca Mauri on DEV" height="30" width="40" /></a>
+<a href="https://twitter.com/lucamauri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Luca Mauri on Twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lucamauri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Luca Mauri on LinkedIN" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/69295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
+<a href="https://instagram.com/lucamauri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Luca Mauri on Instagram" height="30" width="40" /></a>
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
