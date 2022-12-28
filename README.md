@@ -13,6 +13,10 @@ I am an IT professional from Italy 🇪🇺
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Judy Levitt](https://wikitrek.org/wt/index.php?title=Judy_Levitt&diff=46076)
+- [Supernova, Part 1](https://wikitrek.org/wt/index.php?title=Supernova,_Part_1&diff=46075)
+- [USS Sovereign NCC-73811](https://wikitrek.org/wt/index.php?title=USS_Sovereign_NCC-73811&diff=46074)
+- [File:PRO119Sovereign.png](https://wikitrek.org/wt/index.php?title=File:PRO119Sovereign.png&diff=46072)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠️ Languages and Tools :
