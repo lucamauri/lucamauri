@@ -54,6 +54,7 @@ I am an IT professional from Italy 🇪🇺
 
 ## GitHub statistics
 [![LucaMauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucamauri)](https://github.com/anuraghazra/github-readme-stats)
+[![LucaMauri's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucamauri)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://lucamauri.com
 [blog]: https://lucamauri.wordpress.com
