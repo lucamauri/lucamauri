@@ -13,10 +13,14 @@ I am an IT professional from Italy 🇪🇺
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Judy Levitt](https://wikitrek.org/wt/index.php?title=Judy_Levitt&diff=46076)
-- [Supernova, Part 1](https://wikitrek.org/wt/index.php?title=Supernova,_Part_1&diff=46075)
-- [USS Sovereign NCC-73811](https://wikitrek.org/wt/index.php?title=USS_Sovereign_NCC-73811&diff=46074)
-- [File:PRO119Sovereign.png](https://wikitrek.org/wt/index.php?title=File:PRO119Sovereign.png&diff=46072)
+- [Messages on Mediawiki sidebar with Javascript](https://dev.to/lucamauri/messages-on-mediawiki-sidebar-with-javascript-46il)
+- [Auto-updating field in CorelDraw](https://dev.to/lucamauri/auto-updating-field-in-coreldraw-3kk9)
+- [System.Text.Json in action with practical example in VB.net](https://dev.to/lucamauri/system-text-json-in-action-with-practical-example-in-vb-net-1256)
+- [Organize Interwiki and Sites in MediaWiki for best efficiency](https://dev.to/lucamauri/organize-interwiki-and-sites-in-mediawiki-for-best-efficiency-36oe)
+- [Put OAuthAuthentication back to work](https://dev.to/lucamauri/put-oauthauthentication-back-to-work-522a)
+- [Learning how to share what you learnt](https://dev.to/lucamauri/learning-how-to-share-what-you-learnt-3e7n)
+- [Le congratulazioni non bastano](https://lucamauri.wordpress.com/2009/12/26/le-congratulazioni-non-bastano/)
+- [Il cloruro di sodio scorre a fiumi](https://lucamauri.wordpress.com/2009/12/24/il-cloruro-di-sodio-scorre-a-fiumi/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠️ Languages and Tools :
