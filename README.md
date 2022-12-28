@@ -1,11 +1,15 @@
 # 🖖 Welcome weary traveler, this is [Luca][website]
-
-First and foremost a geek and a Trekker, Luca Mauri is employed as an IT Manager.<br />
-A Space Exploration enthusiast, avid reader and hobbyist photographer.<br />
-INTJ.
+I am an IT professional from Italy 🇪🇺
+* I am employed as IT Manager and I love everything related to Information Technology
+* I contribute to open-source and open-knowledge projects
+* I know several programming language
+* I create my own websites
+* I am the founder of [WikiTrek](https://github.com/WikiTrek), a collaborative Star Trek wiki in Italian
 
 ## 🔗 Connect with me
 [![Twitter Follow](https://img.shields.io/twitter/follow/lucamauri?style=flat-square)](https://twitter.com/follow/lucamauri)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white)
 
 ## 🛠️ Languages and Tools :
 <div>
