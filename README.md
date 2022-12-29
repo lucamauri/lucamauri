@@ -1,14 +1,15 @@
 # 🖖 Welcome weary traveler, this is [Luca][website]
-I am an IT professional from Italy 🇪🇺
+I am an IT professional from Italy, Europe 🇪🇺
 * I am employed as IT Manager and I love everything related to Information Technology
+* I am a space enthusiast
 * I contribute to open-source and open-knowledge projects
 * I know several programming language
 * I create my own websites
-* I am the founder of [WikiTrek](https://github.com/WikiTrek), a collaborative Star Trek wiki in Italian
+* I am a Trekker and the founder of [WikiTrek][WTGithub], a collaborative *Star Trek* wiki in Italian
 
 ## 🔗 Connect with me
-<a href="[https://dev.to/lucamauri](https://t.me/lucamauricom)" target="blank"><img align="center" src="https://telegram.org/img/website_icon.svg" alt="Luca Mauri on Telegram" height="30" width="40" /></a>
-<a href="https://dev.to/lucamauri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Luca Mauri on DEV" height="30" width="40" /></a>
+<a href="[https://t.me/lucamauricom](https://t.me/lucamauricom)" target="blank"><img align="center" src="https://telegram.org/img/website_icon.svg" alt="Luca Mauri on Telegram" height="30" width="40" /></a>
+<a href="https://dev.to/lucamauri" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" alt="Luca Mauri on DEV" height="30" width="40" /></a>
 <a href="https://twitter.com/lucamauri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Luca Mauri on Twitter" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lucamauri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Luca Mauri on LinkedIN" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/69295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
@@ -26,7 +27,7 @@ I am an IT professional from Italy 🇪🇺
 - [Il cloruro di sodio scorre a fiumi](https://lucamauri.wordpress.com/2009/12/24/il-cloruro-di-sodio-scorre-a-fiumi/)
 <!-- BLOG-POST-LIST:END -->
 
-## 🛠️ Languages and Tools :
+## 🛠️ Languages and Tools
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C♯" alt="C♯" width="40" height="40"/>&nbsp;
@@ -63,6 +64,9 @@ I am an IT professional from Italy 🇪🇺
 [blog]: https://lucamauri.wordpress.com
 [twitter]: https://twitter.com/lucamauri
 [linkedin]: https://linkedin.com/in/lucamauri
+[WTGithub]: https://github.com/WikiTrek
+[WT]: https://wikitrek.org
+[DT]: https://data.wikitrek.org
 
 <!---
 - 👋 Hi, I’m @lucamauri
