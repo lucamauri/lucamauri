@@ -55,6 +55,11 @@ I am an IT professional from Italy, Europe 🇪🇺
   <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/raw/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
 </div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=apache,cs,css,codepen,dotnet,autocad,bash,dotnetcore,fediverse,firefox,gimp,mediawiki,git,github,githubactions,docker,gitlab,html5,inkscape,lightroom,javascript,jquery,less,linux,lua,md,mysql,php,py,ubuntu,visualstudio,vscode,windows,wordpress&theme=dark" />
+  </a>
+</p>
 
 ## GitHub statistics
 [![LucaMauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucamauri)](https://github.com/anuraghazra/github-readme-stats)
