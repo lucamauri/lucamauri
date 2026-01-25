@@ -61,9 +61,18 @@ I am an IT professional from Italy, Europe 🇪🇺
   </a>
 </p>
 
-## GitHub statistics
-[![LucaMauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucamauri)](https://github.com/anuraghazra/github-readme-stats)
-[![LucaMauri's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucamauri)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub statistics
+[![LucaMauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucamauri&show_icons=true&theme=dark))](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucamauri&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucamauri&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucamauri&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucamauri&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucamauri&theme=github_dark&utcOffset=8) 
+
+## 📖 What I'm Reading and Learning
+<a href="https://app.daily.dev/lucamauri">
+  <img src="https://api.daily.dev/devcards/v2/JCfNZtLPNzTFifdLCBjRk.png?type=default" width="350"/>
+</a>
 
 [website]: https://lucamauri.com
 [blog]: https://lucamauri.wordpress.com
